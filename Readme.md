@@ -1,6 +1,6 @@
-# Hell0  Everyone! I am Vedant Ravindra Domde
+# Hello  Everyone! I am Vedant Ravindra Domde
 
-### this frontend static webiste
+### this is frontend static webiste
 
 ## see my final website below
 
@@ -8,8 +8,17 @@
 
 - Time Taken:-5 hour 48 min
 
-- Experience got on this project
-         -absoult and relative postion
-         -display property
-         -marging and padding
+## Technologies
+Project is created with:
+* HTML
+* CSS
+
+## Experience got on this project:-
+         *absoult and relative postion
+          *display property
+          *marging and padding
+
+
+ Project link [Deploy link](https://vedantdomde.github.io/webdev-project1/)).         
+
          
